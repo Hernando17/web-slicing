@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.topbar {
+    display: flex;
+    width: 100%;
+    background-color: #f7faff;
+    justify-content: flex-end;
+    margin: 0px auto;
+    padding: 0px 40px;
+    max-width: 1280px;
+}
+
