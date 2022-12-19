@@ -1,16 +1,26 @@
 .dropdown {
-    display:flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .dropdown-text {
-    font-weight: 700;
-    font-size: 0.875rem;
-    color: rgb(71, 103, 136);
-    margin: 0px;
-    padding:0px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  color: rgb(71, 103, 136);
+  margin: 0px;
+  padding: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .dropdown-list {
-    display:none;
+  display: none;
+}
+
+.button-primary {
+  background-color: #006bff;
+  color: white;
+  font-size: 0.875rem;
+  border-radius: 8px;
+  padding: 12px 8px;
 }
